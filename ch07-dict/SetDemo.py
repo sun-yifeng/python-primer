@@ -22,3 +22,5 @@ print("---不可变集合---")
 set3 = frozenset(['sun', 'yi', 'feng'])
 print(set3)
 
+
+
