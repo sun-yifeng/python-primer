@@ -4,6 +4,7 @@
 # @Author: sunyf
 # @File  : WithDemo.py
 
+""" with语句省略了文件的关闭 """
 try:
     with open("data.txt", mode='r', encoding='utf-8') as f:
         for each_line in f:
