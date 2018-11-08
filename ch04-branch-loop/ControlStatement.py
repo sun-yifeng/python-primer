@@ -11,7 +11,8 @@ for each in favorite:
     print(each, end=",")
 
 """ range() """
-for i in range(1, 10 ,2):
+#不会打印10，第三个参数是步长
+for i in range(1, 10 ,1):
     print(i)
 
 # break    无特殊之处
