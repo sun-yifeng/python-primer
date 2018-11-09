@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 # @Time  : 2018/11/9 10:19 AM
 # @Author: sunyf
-# @File  : FishDemo.py
+# @File  : SingleInheritDemo.py
 
 import random as r
 
