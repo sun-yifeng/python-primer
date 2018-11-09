@@ -5,7 +5,7 @@
 # @File  : BeautSoup.py
 
 import urllib.request
-import re
+import re #正则表达式模块
 from bs4 import BeautifulSoup
 
 """  
